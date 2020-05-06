@@ -24,8 +24,7 @@ A reward of +1 is given for reaching a yellow banana, and a reward of -1 is give
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
 
-
-The environment has two disctinct scenes. Refer to each specific page for setup, training and results.
+Please make sure each ```file_path``` in ```train_dqn.ipynb``` and ```eval.py``` available. 
 
 ## Installation
 
