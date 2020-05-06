@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```
 ## Running the Code
 
-1. This repository is for Udacity Navigation project of Reinforcement Leaning Nanodegree. Some implementation is publicly avaialble.
+1. This repository is for Udacity Navigation project. Some implementation is publicly avaialble by Udacity. Please visit the reference for more information.
 
 2. Train the agent with implemented code in ```train_dqn.ipynb```.
 
