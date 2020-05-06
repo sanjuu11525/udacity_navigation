@@ -53,11 +53,11 @@ pip install -r requirements.txt
 
 1. This repository is for Udacity Navigation project of Reinforcement Leaning Nanodegree. Some implementation is publicly avaialble.
 
-2. Training the agent with implemented agents by ```train_dqn.ipynb```.
+2. Train the agent with implemented code in ```train_dqn.ipynb```.
 
-3. Evaluate pre-trained model by runnung ```python eval.py```. Please turn your jupytor down when evaluating training result. Otherwise, resource conficts.
+3. Evaluate trained models by runnung ```python eval.py```. Please turn your jupytor down when evaluating training result. Otherwise, resource conficts.
 
-4. Checkpoints are in ```./checkpoint```.
+4. Pretrained models are in ```./checkpoint```.
 
 5. Vanilla DQN, Double DQN, and Deuling DQN are available.
 
