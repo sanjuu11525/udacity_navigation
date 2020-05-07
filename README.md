@@ -1,8 +1,8 @@
 
-# Udacity Navigation Project
+# Udacity Reinforcement Learning Navigation Project
 
 ## Introduction
-This project is to solve the Udacity exercise, banana collection, with different DQN models. For this project, an agent has been trained to navigate a large square world.
+This project is to solve the Udacity exercise, banana collection, with different reinforcement learning DQN models. For this project, an agent has been trained to navigate a large square world.
 
 ### The Environment
 
@@ -24,7 +24,7 @@ A reward of +1 is given for reaching a yellow banana, and a reward of -1 is give
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
 
-Please make sure each ```file_path``` in ```train_dqn.ipynb``` and ```eval.py``` available. 
+Please make sure each ```file_path``` in ```train_dqn.ipynb``` and ```eval.py``` available.
 
 ## Installation
 
