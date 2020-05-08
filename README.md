@@ -15,6 +15,8 @@ The state space has 37 dimensions including the agent's velocity, and forward pe
 
 A reward of +1 is given for reaching a yellow banana, and a reward of -1 is given for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 
+![](images/banana.gif)
+
 ## Getting Start
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
