@@ -30,7 +30,7 @@ Please make sure each ```file_path``` in ```train_dqn.ipynb``` and ```eval.py```
 
 ## Installation
 
-1. Clone the repository and initialize the submodules.
+1. Clone the repository.
 
 ```
 git clone https://github.com/sanjuu11525/udacity_navigation.git
